@@ -2,10 +2,10 @@
 
 [中文](README.md)
 
-[![CI](https://github.com/GaomingOrion/qweave/actions/workflows/ci.yml/badge.svg)](https://github.com/GaomingOrion/qweave/actions/workflows/ci.yml)
-[![Release](https://img.shields.io/github/v/release/GaomingOrion/qweave)](https://github.com/GaomingOrion/qweave/releases)
+[![CI](https://github.com/nori735/qweave/actions/workflows/ci.yml/badge.svg)](https://github.com/nori735/qweave/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/nori735/qweave)](https://github.com/nori735/qweave/releases)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776ab)](https://www.python.org/)
-[![License](https://img.shields.io/github/license/GaomingOrion/qweave)](LICENSE)
+[![License](https://img.shields.io/github/license/nori735/qweave)](LICENSE)
 
 **A Polars-native factor research engine powered by Rust.** qweave takes you
 from composable alpha computation and leakage-aware forward-return labels to
@@ -49,7 +49,7 @@ parenthesized comparisons with `&`, `|`, and `~`. See the
 [v0.6.2 release notes](.github/release-notes/v0.6.2.en.md) for usage and migration.
 
 Platform-specific wheels are also available from
-[GitHub Releases](https://github.com/GaomingOrion/qweave/releases/latest).
+[GitHub Releases](https://github.com/nori735/qweave/releases/latest).
 For source builds see the [Development Guide](docs/development.en.md).
 
 ## From Market Data To A Factor Report

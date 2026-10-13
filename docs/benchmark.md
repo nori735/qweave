@@ -33,8 +33,8 @@ Qlib 与 KunQuant 支持的内置因子集不同，因而没有把两者的绝�
   后测量 3 次，报告 best、mean、stdev 与进程峰值 RSS。
 - `POLARS_MAX_THREADS=32` 与 `RAYON_NUM_THREADS=32`；Qlib 和 KunQuant 均传入
   `--threads 32`。KunQuant 在 x64 MSVC 环境运行。
-- Alpha158 于 2026-07-10、commit [`eb8c5d5`](https://github.com/GaomingOrion/qweave/commit/eb8c5d5)
-  测量；WorldQuant101 于 2026-07-11、commit [`ecbe2d7`](https://github.com/GaomingOrion/qweave/commit/ecbe2d7)
+- Alpha158 于 2026-07-10、commit [`eb8c5d5`](https://github.com/nori735/qweave/commit/eb8c5d5)
+  测量；WorldQuant101 于 2026-07-11、commit [`ecbe2d7`](https://github.com/nori735/qweave/commit/ecbe2d7)
   测量。
 
 ## qweave vs Qlib：Alpha158 全部 158 因子

@@ -8,7 +8,7 @@ version = "0.6.2"
 description = "Polars-native factor research engine powered by Rust"
 readme = "README.en.md"
 license = { text = "MIT" }
-authors = [{ name = "GaomingOrion" }]
+authors = [{ name = "nori735" }]
 requires-python = ">=3.10"
 dependencies = ["polars>=1.0"]
 keywords = [
@@ -32,12 +32,12 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/GaomingOrion/qweave"
-Repository = "https://github.com/GaomingOrion/qweave"
-Issues = "https://github.com/GaomingOrion/qweave/issues"
-Documentation = "https://github.com/GaomingOrion/qweave/blob/master/docs/index.en.md"
-Changelog = "https://github.com/GaomingOrion/qweave/blob/master/CHANGELOG.md"
-Releases = "https://github.com/GaomingOrion/qweave/releases"
+Homepage = "https://github.com/nori735/qweave"
+Repository = "https://github.com/nori735/qweave"
+Issues = "https://github.com/nori735/qweave/issues"
+Documentation = "https://github.com/nori735/qweave/blob/master/docs/index.en.md"
+Changelog = "https://github.com/nori735/qweave/blob/master/CHANGELOG.md"
+Releases = "https://github.com/nori735/qweave/releases"
 
 [dependency-groups]
 dev = [
