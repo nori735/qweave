@@ -2,10 +2,10 @@
 
 [English](README.en.md)
 
-[![CI](https://github.com/GaomingOrion/qweave/actions/workflows/ci.yml/badge.svg)](https://github.com/GaomingOrion/qweave/actions/workflows/ci.yml)
-[![Release](https://img.shields.io/github/v/release/GaomingOrion/qweave)](https://github.com/GaomingOrion/qweave/releases)
+[![CI](https://github.com/nori735/qweave/actions/workflows/ci.yml/badge.svg)](https://github.com/nori735/qweave/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/nori735/qweave)](https://github.com/nori735/qweave/releases)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776ab)](https://www.python.org/)
-[![License](https://img.shields.io/github/license/GaomingOrion/qweave)](LICENSE)
+[![License](https://img.shields.io/github/license/nori735/qweave)](LICENSE)
 
 **Polars 原生、Rust 加速的因子研究引擎。** qweave 在一条 DataFrame pipeline 中
 完成可组合因子计算、无前视 forward-return 标签、IC/分位/换手评估和交互式报告。
@@ -37,7 +37,7 @@ qweave 适合已经用 Parquet/Polars 管理数据，希望减少 Python 逐因�
 pip install qweave
 ```
 
-如需指定平台的 wheel，见 [GitHub Releases](https://github.com/GaomingOrion/qweave/releases/latest)。
+如需指定平台的 wheel，见 [GitHub Releases](https://github.com/nori735/qweave/releases/latest)。
 从源码构建见[开发者手册](docs/development.md)。
 
 v0.6.2 新增 `!=`、`&`、`|`、`~`、`ts_mad` 和 `ts_count`，继续使用 Float64 掩码。

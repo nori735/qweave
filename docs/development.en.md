@@ -51,7 +51,7 @@ repository. Before the first publication, a maintainer must configure this
 publisher for `qweave` on PyPI:
 
 ```text
-Owner: GaomingOrion
+Owner: nori735
 Repository: qweave
 Workflow: release.yml
 Environment: pypi

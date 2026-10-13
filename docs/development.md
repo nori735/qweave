@@ -50,7 +50,7 @@ PyPI 使用 Trusted Publishing，不在仓库保存 token。首次发布前，�
 为 `qweave` 配置以下 publisher：
 
 ```text
-Owner: GaomingOrion
+Owner: nori735
 Repository: qweave
 Workflow: release.yml
 Environment: pypi

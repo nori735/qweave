@@ -42,9 +42,9 @@ the KunQuant comparison is its supported 82-factor Alpha101 subset only.
 - `POLARS_MAX_THREADS=32` and `RAYON_NUM_THREADS=32`; Qlib and KunQuant both
   receive `--threads 32`. KunQuant runs in an x64 MSVC environment.
 - Alpha158 was measured on 2026-07-10 at commit
-  [`eb8c5d5`](https://github.com/GaomingOrion/qweave/commit/eb8c5d5);
+  [`eb8c5d5`](https://github.com/nori735/qweave/commit/eb8c5d5);
   WorldQuant101 was measured on 2026-07-11 at commit
-  [`ecbe2d7`](https://github.com/GaomingOrion/qweave/commit/ecbe2d7).
+  [`ecbe2d7`](https://github.com/nori735/qweave/commit/ecbe2d7).
 
 ## qweave vs Qlib: All 158 Alpha158 Factors
 
